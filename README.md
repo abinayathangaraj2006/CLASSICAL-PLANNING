@@ -1,7 +1,8 @@
+
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-<h3>Name: A.Nisargapriya </h3>
-<h3>Register Number: 212224060174</h3>
+<h3>Name: ABINAYA .T </h3>
+<h3>Register Number: 212224060006</h3>
 <H3> Algorithm or Steps Involved:</H3>
 <ol>
   <li>Define the initial state</li>
@@ -100,4 +101,3 @@ print(plan)
 
 <h3>OUTPUT</h3>
 <img width="546" height="127" alt="Screenshot 2025-10-10 155131" src="https://github.com/user-attachments/assets/7551a621-6347-4b33-9986-0bb57ae00ebb" />
-
