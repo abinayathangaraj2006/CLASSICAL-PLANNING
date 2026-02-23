@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-<h3>Name: A.Nisargapriya </h3>
-<h3>Register Number: 212224060174</h3>
+<h3>Name: Abinaya T </h3>
+<h3>Register Number: 212224060006 </h3>
 <H3> Algorithm or Steps Involved:</H3>
 <ol>
   <li>Define the initial state</li>
